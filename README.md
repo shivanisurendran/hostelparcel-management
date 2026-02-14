@@ -6,7 +6,7 @@ TEAM MEMBERS:
    - Member 2: Shivani T - RIT KOTTAYAM
 
 Hosted Project Link:
-
+ 
 
 Project Description:
  Hostel Parcel Management System is a digital platform designed to efficiently manage parcel deliveries within a college hostel.
@@ -127,5 +127,29 @@ Student logs in using phone number
 Student collects parcel with verification
 
 Status updated to “Collected"
+
+API Documentation
+Base URL:https://tkvkriyffxdnqpeqceql
+
+AI TOOLS USED(Transparency Section)
+
+Tool Used: ChatGPT
+
+Purpose:
+
+* Supabase integration guidance
+* Debugging frontend-backend connection
+* SQL schema design
+* Authentication logic
+
+Percentage of AI-generated code: ~25%
+
+Human Contributions:
+
+* Project idea design
+* Database schema modification
+* UI design and customization
+* Full integration and testing
+* Deployment
 
 

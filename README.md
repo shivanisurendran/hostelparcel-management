@@ -91,10 +91,12 @@ Screenshot1 :Login page
 ![WhatsApp Image 2026-02-14 at 8 18 13 AM](https://github.com/user-attachments/assets/db9084b4-21d0-43a1-8b07-30b4f6ca02c9)
 
 Screenshot2:Matron page
-![WhatsApp Image 2026-02-14 at 8 18 13 AM](https://github.com/user-attachments/assets/8f780439-9700-462f-8635-d8e31cd91cbf)
+![WhatsApp Image 2026-02-14 at 8 19 03 AM](https://github.com/user-attachments/assets/7014c53c-af89-4b19-9a33-c82d1511ba94)
+
 
 screenshot3:student parcel view
-![WhatsApp Image 2026-02-14 at 8 18 13 AM](https://github.com/user-attachments/assets/bf6c4933-a918-4580-a4fb-58050d6dfd90)
+![WhatsApp Image 2026-02-14 at 8 20 38 AM](https://github.com/user-attachments/assets/a86cc4d2-5673-4998-b4f1-9fd684f9c906)
+
 
 
 SYSTEM ARCHITECTURE
@@ -151,5 +153,6 @@ Human Contributions:
 * UI design and customization
 * Full integration and testing
 * Deployment
+
 
 

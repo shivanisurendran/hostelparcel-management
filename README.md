@@ -9,6 +9,7 @@ Hosted Project Link:
  
 
 Project Description:
+
  Hostel Parcel Management System is a digital platform designed to efficiently manage parcel deliveries within a college hostel.
 It allows hostel matron to register incoming parcels, generate secure pickup codes, and notify students. Students can log in using their phone number and password to view parcel details and collect parcels securely using a verification code.
 
@@ -153,6 +154,7 @@ Human Contributions:
 * UI design and customization
 * Full integration and testing
 * Deployment
+
 
 
 

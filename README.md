@@ -6,7 +6,7 @@ TEAM MEMBERS:
    - Member 2: Shivani T - RIT KOTTAYAM
 
 Hosted Project Link:
- 
+ https://ardra16.github.io/Hostel-parcel_management/
 
 Project Description:
 
@@ -154,6 +154,7 @@ Human Contributions:
 * UI design and customization
 * Full integration and testing
 * Deployment
+
 
 
 

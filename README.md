@@ -87,8 +87,45 @@ PROJECT DOCUMENTATION
 
 Screenshots
 
-Screenshot1 : Matron Login page
+Screenshot1 :Login page
 ![WhatsApp Image 2026-02-14 at 8 18 13 AM](https://github.com/user-attachments/assets/db9084b4-21d0-43a1-8b07-30b4f6ca02c9)
 
+Screenshot2:Matron page
+![WhatsApp Image 2026-02-14 at 8 18 13 AM](https://github.com/user-attachments/assets/8f780439-9700-462f-8635-d8e31cd91cbf)
+
+screenshot3:student parcel view
+![WhatsApp Image 2026-02-14 at 8 18 13 AM](https://github.com/user-attachments/assets/bf6c4933-a918-4580-a4fb-58050d6dfd90)
+
+
+SYSTEM ARCHITECTURE
+
+### Architecture Overview
+
+Frontend (Next.js)
+⬇
+Supabase Client
+⬇
+Supabase PostgreSQL Database
+
+### Explanation
+
+* Frontend communicates directly with Supabase
+* Supabase handles database operations
+* No separate backend server required
+* Role-based logic handled in frontend
+
+  APPLICATION WORKFLOW
+
+Staff receives parcel
+
+Staff enters parcel details
+
+System generates secure pickup code
+
+Student logs in using phone number
+
+Student collects parcel with verification
+
+Status updated to “Collected"
 
 
